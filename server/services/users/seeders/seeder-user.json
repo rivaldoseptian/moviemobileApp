@@ -1,0 +1,18 @@
+[
+  {
+    "username": "aldo",
+    "email": "septian01@gmail.com",
+    "password": "654321",
+    "role": "Admin",
+    "phoneNumber": "098877",
+    "address": "JlnSubur"
+  },
+  {
+    "username": "sapu",
+    "email": "sapu@gmail.com",
+    "password": "123456",
+    "role": "Admin",
+    "phoneNumber": "098877",
+    "address": "JlnSubur"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Black Adam",
+    "slug":"Black Adam",
+    "synopsis": "In ancient Kahndaq, Teth Adam was bestowed the almighty powers of the gods. After using these powers for vengeance, he was imprisoned, becoming Black Adam. Nearly 5,000 years have passed, and Black Adam has gone from man to myth to legend. Now free, his unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone.",
+    "trailerUrl": "https://www.youtube.com/watch?v=mkomfZHG5q4",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+    "rating": 8,
+    "genreId": 1,
+    "authorId": "64229e2f68c2d0e1ccc7c2df"
+  },
+  {
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "slug":"Black Adam",
+    "synopsis": "Ant-Man and the Wasp find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that pushes them beyond the limits of what they thought was possible.",
+    "trailerUrl": "https://www.youtube.com/watch?v=ZlNFpri-Y40",
+    "imgUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYyaCMGIDqOrnfFiXD5Wj3--gOX6aYjvtE-DKc3ym6Wyr_UQqH",
+    "rating": 8,
+    "genreId": 1,
+    "authorId": "64229e2f68c2d0e1ccc7c2df"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "slug":"Black Adam",
+    "synopsis": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
+    "trailerUrl": "https://www.youtube.com/watch?v=TcMBFSGVi1c",
+    "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQA_-tL18_rj9zEcjN6n41NEaJm-kRNF9UeOtvksZ4z_OW6jRA9",
+    "rating": 8,
+    "genreId": 1,
+    "authorId": "64229e2f68c2d0e1ccc7c2df"
+  },
+  {
+    "title": "Venom: Let There Be Carnage",
+    "slug":"Black Adam",
+    "synopsis": "Eddie Brock is still struggling to coexist with the shape-shifting extraterrestrial Venom. When deranged serial killer Cletus Kasady also becomes host to an alien symbiote, Brock and Venom must put aside their differences to stop his reign of terror.",
+    "trailerUrl": "https://www.youtube.com/watch?v=-FmWuCgJmxo",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwv-tIaNSf3BW3wGfvG8TvpHmt92aObz9MxxROvVgsW8mlmQw",
+    "rating": 8,
+    "genreId": 1,
+    "authorId": "64229e2f68c2d0e1ccc7c2df"
+  },
+  {
+    "title": "Spider-Man: No Way Home",
+    "slug":"Black Adam",
+    "synopsis": "With Spider-Man's identity now revealed, our friendly neighborhood web-slinger is unmasked and no longer able to separate his normal life as Peter Parker from the high stakes of being a superhero. When Peter asks for help from Doctor Strange, the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+    "trailerUrl": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
+    "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtU4DiRFRr0155DjcHlSsgJy9opzt_MPMJmHfG4MEa31-A82Xb",
+    "rating": 8,
+    "genreId": 1,
+    "authorId": "64229e2f68c2d0e1ccc7c2df"
+  }
+]

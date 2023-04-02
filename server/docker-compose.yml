@@ -1,0 +1,27 @@
+services:
+  app-services:
+    build: ./services/app
+    container_name: app-services
+    ports:
+      - "4002:4002"
+    environment:
+      - DATABASE_URL=${SUPABASE_URL}
+      - JWT_SECRET="siahaan_septian"
+  user-services:
+    build: ./services/users
+    container_name: user-services
+    ports:
+      - "4001:4001"
+    environment:
+      - url=${MONGODB_URL}
+  orchestrator:
+    build: ./orchestrator
+    container_name: orchestrator
+    ports:
+      - "80:80"
+    environment:
+      - PORT_REDIS=15850;
+      - HOST_REDIS=${HOST_REDIS}
+      - PASS_REDIS=${PASS_REDIS}
+      - BaseUrlMovie="http://app-services:4002"
+      - BaseUrlUser="http://user-services:4001"
